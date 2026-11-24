@@ -3974,3 +3974,5 @@ Moved to [DeFiLabs](https://github.com/SunWeb3Sec/DeFiLabs)
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
